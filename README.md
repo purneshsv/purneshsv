@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **purneshsv@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vdelEebKyt2B20TLxbpyJCHe8YXQtWzY/view?usp=sharing](https://drive.google.com/file/d/1vdelEebKyt2B20TLxbpyJCHe8YXQtWzY/view?usp=sharing)
+
 
 - ⚡ I get exicted about **Formula 1 (Motorsport)**
 
