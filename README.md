@@ -7,7 +7,7 @@
 ###
 
 ###
-
+View the [live site](https://www.purneshsv.com) .
 - 🔭 I’m currently working on **Frontend Project**
 
 - 🌱 I’m currently learning **Figma and Working on AWS Certified Cloud Practitioner**
