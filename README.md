@@ -42,7 +42,7 @@ View the [My Portfolio](https://www.purneshsv.com)
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
   <a href="https://www.purneshsv.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=View+Portfolio&logo=google-chrome&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo" />
+    <img src="https://www.purneshsv.com/favicon.ico" height="35" alt="Portfolio logo" />
 </a>
 </div>
 
