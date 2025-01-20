@@ -41,8 +41,11 @@ View the [My Portfolio](https://www.purneshsv.com)
   <a href="https://linkedin.com/in/purneshsv" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
   </a>
-  <a href="https://www.purneshsv.com/" target="_blank">
-    <img src="https://www.purneshsv.com/favicon.ico" height="35" alt="Portfolio logo" />
+  <a href="https://www.purneshsv.com/" target="_blank" style="text-decoration: none;">
+    <div style="display: inline-flex; align-items: center; background-color: #0077B5; color: white; padding: 5px 15px; border-radius: 5px; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold;">
+        <img src="https://www.purneshsv.com/favicon.ico" alt="Portfolio logo" style="height: 20px; margin-right: 10px;">
+        View Portfolio
+    </div>
 </a>
 </div>
 
