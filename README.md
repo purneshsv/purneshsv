@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Purnesh Shivarudrappa Vidhyadhara enrolled at The Illinois Institute of Technology in Chicago, United States of America</h2>
+<h2 align="left">Hi 👋 My name is Purnesh Shivarudrappa Vidhyadhara enrolled at The Illinois Institute of Technology in Chicago, United States of America</h2>
 
 
 
