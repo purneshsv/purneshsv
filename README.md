@@ -7,7 +7,7 @@
 ###
 
 ###
-View the [My Portfolio](https://www.purneshsv.com).
+View the [My Portfolio](https://www.purneshsv.com)
 <a href="https://www.purneshsv.com/" target="_blank" style="text-decoration: none;">
     <div style="display: inline-flex; align-items: center; background-color: #0077B5; color: white; padding: 8px 15px; border-radius: 5px; font-family: Arial, sans-serif; font-size: 14px; font-weight: bold; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);">
         <img src="https://www.purneshsv.com/favicon.ico" alt="Portfolio logo" style="height: 20px; margin-right: 10px;">
