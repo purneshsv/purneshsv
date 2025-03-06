@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋 My name is Purnesh Shivarudrappa Vidhyadhara enrolled at The Illinois Institute of Technology in Chicago, United States of America</h2>
 
-
+###
+###
 
 <img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*VMmvImch6VU5pc2VktY1uw.gif"  />
 
